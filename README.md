@@ -1,5 +1,7 @@
 # Profile-card-component
 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -45,11 +47,18 @@
 
 ### Built with
 
+- HTML5
+- CSS
+- Flexbox
+- Mobile First
+
 ### What I learned
 
 ### Continued development
 
 ### Useful resources
+
+- [freeCodeCamp](https://www.freecodecamp.org)
 
 ### Links
 
