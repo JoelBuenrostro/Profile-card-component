@@ -25,7 +25,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshots
 
+Desktop preview
+![Desktop](./images/desktop-design.jpg)
+
+Mobile preview
+![Mobile](./images/mobile-design.jpg)
+
 ## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
 
 ### Colors
 
@@ -50,16 +61,23 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - HTML5
 - CSS
 - Flexbox
-- Mobile First
 
 ### What I learned
 
+- CSS best practices
+- Flexbox layout
+
 ### Continued development
+
+- I will try to find a way to reduce the lines of code to make it lighter
 
 ### Useful resources
 
 - [freeCodeCamp](https://www.freecodecamp.org)
+- [MDN wEB Docs](https://developer.mozilla.org)
+- [w3schools](https://www.w3schools.com/)
 
 ### Links
 
-## Acknowledgments
+- [Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+- [My profile](https://www.frontendmentor.io/profile/JoelBuenrostro)
