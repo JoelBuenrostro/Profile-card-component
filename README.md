@@ -28,9 +28,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 Desktop preview
 ![Desktop](./images/desktop-design.jpg)
 
-Mobile preview
-![Mobile](./images/mobile-design.jpg)
-
 ## Layout
 
 The designs were created to the following widths:
